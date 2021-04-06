@@ -9,7 +9,7 @@ As a student who has UC Student Health Insurance Plan (UC SHIP) coverage, I have
 
 https://www.ucop.edu/ucship/index.html
 
-*UC SHIP's website is built for students enrolled in University of California's campuses, and it is where students get a better understanding about their health covereage, the benefits, claims, where to get a referral etc.  UC SHIP provides high-quality, affordable and convenient coverage that protects students from unexpected health care costs. UC SHIP in conjunction with the campus Student Health Center also works diligently with affiliated vendors (Anthem, Delta Dental, Academic Health Plans) to ensure that their systems are upgraded as soon as possible. 
+*UC SHIP's website is built for students enrolled in University of California's campuses, and it is where students get a better understanding about their health covereage, the benefits, claims, where to get a referral etc.  UC SHIP provides high-quality, affordable and convenient coverage that protects students from unexpected health care costs. UC SHIP in conjunction with the campus Student Health Center also works diligently with affiliated vendors (Anthem, Delta Dental, Academic Health Plans) to ensure that their systems are upgraded as soon as possible.*
 
 <img src="./Homepage UCSHIP.png" width="800px">
 
