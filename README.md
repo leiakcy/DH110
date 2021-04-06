@@ -1,11 +1,12 @@
-# Assignment 01: Heuristic evolution 
+# Assignment 01: Heuristic Evaluation
 ## DH110, Leia Ku Cheng Yee
 
-This is the content 
+## UC SHIP WEBSITE
 
-https://www.npr.org/
+As a student who has UC Ship Health Insurance Coverage, I have explored the UC Ship website numerous times before all my visitations to a clinic, a dentist, or a hospital. Especially during these times of crises, I want to ensure that the health plan covers my prescriptions and visitation outside of the UCLA Student Health Center. However, I find the website hard to navigate, because I am bombarded with so much information at the home page. By improving the UX design, the website will  be more accesible, user-friendly, and less overwhelming. 
 
-###### Note: This is a test
+https://www.ucop.edu/ucship/index.html
+
 
 ![NPR screen capture](NPRScreenCapture.png)
 
