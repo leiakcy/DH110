@@ -9,4 +9,4 @@ https://www.npr.org/
 
 ![NPR screen capture](NPRScreenCapture.png)
 
-<ing src="./NPRScreenCapture.png">
+<img src="./NPRScreenCapture.png">
