@@ -35,7 +35,9 @@ The search tools and information infrastructure of the page is rather confusing 
 | **#4 Consistency and standards**: Design is consistent through all pages | 2 | The navigation bar is not consistent in all pages. If users click on any menu items, they will be brought to a page where the navigation bar does not exist.|
 | **#5 Error prevention**: Design can prevent problems from surfacing | 3 | Having a search button that provides text input and suggestions can help users in searching the information they desire. Because of the confusing navigation and menu layout, it is possible for users to click on the wrong item. |
 | **#6 Recognition rather than recall**: Information required for the design should be easily retrievable | 3 | The overall design and terminology of the website makes it difficult for users to recall the workings of the system. For instance, the home page is extremely wordy and lengthy, with lack of organization and hierarchy in content, resulting in difficulty in the comprehension of information. Moreover, since there is the top menu bar and the navigation bar, users might have trouble recalling which place they obtained information from. |
-| **##7 Flexibility and efficiency of use**: Design that ease users to tailor frequent actions | 2 | Altough the navigation bar acts as a good filter for different coverages, there is no search button that allow users to find specic information quickly. |
+| **#7 Flexibility and efficiency of use**: Design that ease users to tailor frequent actions | 2 | Altough the navigation bar acts as a good filter for different coverages, there is no search button that allow users to find specic information quickly. |
+| **#8 Aesthetic and minimalistic design**: Design is easily accessible and contain relevant information | 2 | Even though the website design is decent and is filled with relevant information that is useful to users, at first glance, the pages are too wordy, lengthy and complex. Repeated information like hypertext and hyperlinks that already exist in the menu bar should be removed to make the pages appear to be more minimalistic.
+
 
 
 
