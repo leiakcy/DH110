@@ -8,9 +8,7 @@ As a student who has UC Ship Health Insurance Coverage, I have explored the UC S
 https://www.ucop.edu/ucship/index.html
 
 
-![NPR screen capture](NPRScreenCapture.png)
-
-<img src="./NPRScreenCapture.png" width="200px">
+<img src="./HomepageUCSHIP.png" width="800px">
 
 ---
 
