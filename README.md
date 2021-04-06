@@ -21,14 +21,13 @@ https://www.ucop.edu/ucship/index.html
 | 2 | Minor usability problem: fixing this should be given low priority |
 | 3 | Major usability problem: important to fix, so should be given high priority |
 
-
-
-
-
 ---
 
-This is a table:
+### Initial Evaluation 
+The search tools and information infrastructure of the page is rather confusing and can hinder user's efficiency. On the home page, there is a menu bar on the top of the page and a naviagtion bar on the left, and both bars present very different information. However, once you click on a menu item, you can no longer see the navigation bar, which hinders user control. There is also lack of organizations and hierarchy of content on the website, which needs to be fixed to ease usability.
 
-| Heuristics | Note |
-| ---------- | ---- |
-| Visibility of the system | It is good to have the user's radio system (KVCR): But it is not clear where the news was published or simply it is missing date/time information which users may want to check by default|
+
+| Heuristics | Rating | Evaluation |
+| ---------- | ------ | ---------- | 
+| #1 Visuality of System Status | 2 | When a user lands on the home page, they are immediately informed through the banner of what the system is about. However, with the small font size, and the large amount of information bombarded to users, it is unclear of what the key components are. Besides there is no search button, so users can't directly look up the desired information.
+
