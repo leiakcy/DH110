@@ -41,6 +41,14 @@ The search tools and information infrastructure of the page is rather confusing 
 | **#10 Help and documentation**: Design that help users understand how to finish their task | 1 | There is FAQ, and "Get in Touch" on the menu bar, which allow users to find solutions to their problems and questions. Furthermore, the website also provides a lot of resources and documentation that guide users step by step, for instance, "three steps to getting dental care", "10 things to know about UC SHIP" etc. But one thing that the website can improve on is to include a keyword search page that help users target their issues and concerns. 
 
 
+---
+
+
+### Suddenly Senior Website 
+
+https://www.suddenlysenior.com
+
+*Suddenly Senior is a website that provides humorous content, advocacy and useful information for seniors. The content they provide include trivias, senior guides, stories, best products for seniors etc, to aid seniors with any problems they encounter, keep their minds active, and entertain them. This website now has over 4,000 pages of humor, and is updated on a daily basis.*
 
 
 
