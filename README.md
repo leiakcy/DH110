@@ -50,6 +50,28 @@ https://www.suddenlysenior.com
 
 *Suddenly Senior is a website that provides humorous content, advocacy and useful information for seniors. The content they provide include trivias, senior guides, stories, best products for seniors etc, to aid seniors with any problems they encounter, keep their minds active, and entertain them. This website now has over 4,000 pages of humor, and is updated on a daily basis.*
 
+<img src="./Suddenly senior homepage.png" width="800px">
+
+---
+
+### Initial Evaluation
+
+Overall, the website is not very easily navigable. Seniors may struggle to navigate around the website because of the complex hyperlinks on the multiple side bars. The content is slightly disorganized, and there isn't a search button for users to quickly find their desired information. Instead, they have to scroll through the lengthy homepage. In short, the website needs quite some work to improve usability.
+
+| Heuristics | Rating | Evaluation |
+| ---------- | ------ | ---------- | 
+| **#1 Visuality of System Status**: The users are informed about what's going on through through feedback in a timely manner | 3 | Once users click on any menu items, there isn't a clear indication of what page the user is on. This can lead to inefficiency because users may not recall which menu items they have clicked on at the first place.|
+| **#2 Match between the system and the real world**: Design speak the users' language, and are easily reconignzable by users  | 1 | The terminology on the website is simple and easily interpretable. There are also little to no icons used, so users can just navigate to their desired pages through reading the menu items. |
+| **#3 User control and freedom**: Users can undo or redo when mistakes were made | 3 | There is no indication of what page the user is on, and there also isn't a "Home" button. This hinders user control because users may not be aware that they have to click on the logo to navigate back to the homepage. Instead, they may think the only way to navigate back is to click on "back" multiple times. |
+| **#4 Consistency and standards**: Design is consistent through all pages | 2 | The design is rather consistent throughout the different webpages. However, the font style on a few webpages were not consistent.|
+| **#5 Error prevention**: Design can prevent problems from surfacing | 3 | There is no clear way for users to navigate back to previous pages. The option to filter out information is also hidden at the bottom of the pages, resulting in decreased efficiency. |
+| **#6 Recognition rather than recall**: Information required for the design should be easily retrievable | 3 | The overall design and terminology of the website makes it difficult for users to recall the workings of the system. For instance, the side bars of the pages are not organized, making it difficult for users to retreive information. Moreover, since there is no clear indication to which page the user is on, users cannot clearly recognize the key components of the page.|
+| **#7 Flexibility and efficiency of use**: Design that ease users to tailor frequent actions | 1 | There is a search button for users to quickly and efficiently look up desired information, rather than having to browse through the complex navigation bars.|
+| **#8 Aesthetic and minimalistic design**: Design is easily accessible and contain relevant information | 3 | At first glance, the website design is simple, but also boring. It is consistent throughout the pages, but the pictures used for all the headers are in low quality. The pages are also very lengthy, and bombarded with a lot hypertext that made the design look slighly disorganized. |
+| **#9 Help users recognize, diagnose, and recover from errors**: Express error messages in plain language, and construct solutions for users | 1 | There were no  signicant errors found on the website, however, it'll be great for users to know if error noticications are automatically turned on. |
+| **#10 Help and documentation**: Design that help users understand how to finish their task | 2 | Although the purpose of the site is to help seniors with problems, there are no guides to the website itself. The contact information was almost not visible, and hidden at the footer, users will have to scroll through lengthy pages just to see the information. Instead, they should have the contact information at the menu bar.
+
+
 
 
 
