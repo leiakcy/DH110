@@ -19,7 +19,14 @@ To better understand how different users will interact with the website, I have 
 - Link to video recording is [here!](https://ucla.zoom.us/rec/play/92iPxn9ut4bz6UmYun54ExiOEpmWkODTUMHb0lcKPOu1r8gs1Ub9jDtWemuvGDLkgZX4eoz3GxTsxbaz._0crSviKTfu61wsm)
 - Link to interview transcript is [here!](https://ucla.zoom.us/rec/sdownload/YKfPse3-z7ER040QFcy3tlubbiRlDU1ObzMwcNf6GtnOMgDpFBZqnheiBpI33j_tyYwsG5xz5aFKg5JD.Szl0pvNEeDf02WQ5)
 
+
 ---
 
 ### Reflection
+I think the contextual inquiry has allowed to me to gain insights and uncover usability problems that I didn't notice from conducting the heauristic evaluation. The user, Amanda was able to complete the tasks provided, but she did find it difficult to navigate through the different pages on the website due to the disorganization of the site and the complex navigation bars on the right. She also mentioned that the design was very boring and unapealling, bombarded with too many ads, and the typography of the website is not engaging at all. Since there is lack hierarchy in content organization, it is hard for her to stay focus when reading through the information. On the other hand, she really enjoyed the hyperlinks to different resources, and she finds that the different articles do provide useful information. Amanda also thinks having a bookmark tool is a good method to use for the website so users can easily refer back to information that they have already seen, and it also saves a lot of time. Overall, she rated the website a 5 out of 10. 
+
+Throughout the contextual inquiry, I have also learned a few things about the process. It is really insightful to see how the user interact with the product, and it provided me a lot of useful data for improvements. When performing the interview, I learned that is important to eliminate all biases and try to view the product from an outsider perspective. Moreover, I also find that I need to keep my script for contextual inquiry rather loose and flexible, because the user was very immersed in the process, and have her own way of interacting with the website. Overall, the interview went very smoothly because the technology and equipment set up was convenient and easy since it's on Zoom, so moving from section to section was natural, and the interviewee did a great job of speaking out loud. The conversation is also very informal and casual, so she wasn't hesitant to criticize the website. However, I think I can spend a little more time to interview her to gain more insight about the website. 
+
+
+
 
