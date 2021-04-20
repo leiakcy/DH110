@@ -16,7 +16,8 @@ To better understand how different users will interact with the website, I have 
 
 ### Data/Materials 
 - Link to the contextual inquiry guide is [here!](https://docs.google.com/document/d/1kSTZJpE2WfmHVIYhOzFSvWNahAY_fZXWmIGIk2LfDGA/edit?usp=sharing) 
-- Link to video recording is [here!](https://ucla.zoom.us/rec/play/92iPxn9ut4bz6UmYun54ExiOEpmWkODTUMHb0lcKPOu1r8gs1Ub9jDtWemuvGDLkgZX4eoz3GxTsxbaz._0crSviKTfu61wsm)
+- Link to video recording is [here!](https://ucla.zoom.us/rec/share/HDHSRINVmbxEjpVHxLPW4GoZCSfguZp_dPBQgg4Qzzeg0PEZ0uLQCsFh8vjWC9dg.ML03avSNrdrQ2_oH)
+Access Passcode: wtiGl43+
 - Link to interview transcript is [here!](https://ucla.zoom.us/rec/sdownload/YKfPse3-z7ER040QFcy3tlubbiRlDU1ObzMwcNf6GtnOMgDpFBZqnheiBpI33j_tyYwsG5xz5aFKg5JD.Szl0pvNEeDf02WQ5)
 
 
