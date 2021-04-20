@@ -45,7 +45,7 @@ Here is a link to the moderator script and participant survey. [Click here!](htt
 
 ### Video Link 
 
-Here is a link to the usability test video and screen recording. [Click here!](https://ucla.zoom.us/rec/share/SlnDpoTHb2mAFHSWx3t33WMCvCbIrnjcpFL-jx8bDwCtGykVyoSe0XvSCOSMRSOV.B6vF2FkJTb_qJS8X?startTime=1618351944000)
+Here is a link to the usability test video and screen recording. [Click here!](https://ucla.zoom.us/rec/share/DiSSiehUtsZVeiTHiKtDfCkNzZWC6X6aUAyPn59-EOMZ0S7KSYkuJMhjwWdJNG6n.5JzabKJokbl8kplH) Access Passcode: bb7=SYx*
 
 ---
 
