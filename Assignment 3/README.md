@@ -18,7 +18,7 @@ To better understand how different users will interact with the website, I have 
 - Link to the contextual inquiry guide is [here!](https://docs.google.com/document/d/1kSTZJpE2WfmHVIYhOzFSvWNahAY_fZXWmIGIk2LfDGA/edit?usp=sharing) 
 - Link to video recording is [here!](https://ucla.zoom.us/rec/share/HDHSRINVmbxEjpVHxLPW4GoZCSfguZp_dPBQgg4Qzzeg0PEZ0uLQCsFh8vjWC9dg.ML03avSNrdrQ2_oH)
 Access Passcode: wtiGl43+
-- Link to interview transcript is [here!](https://ucla.zoom.us/rec/sdownload/WlRCswFWlDAQlCIN4cXNf5ejxC_FC92eK-bQLJja3VZ8jBhRH3KgLiFTXtbgupWn3k3Z79IlVE0M6HbW.OiDqvkCX_pd8vUI2)
+- Link to interview transcript is [here!](https://docs.google.com/document/d/1pQa-juSI9bRyP9MiMC7Oftl6yB_wniLqIjgMQ8nHtJ4/edit?usp=sharing)
 
 
 ---
