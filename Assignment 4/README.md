@@ -14,4 +14,4 @@ The purpose of UX storytelling is to have a better understanding of the users by
 
 #### Persona 1: Larry 
 
-<img src="./Larry's Persona.png" width="800px">
+
