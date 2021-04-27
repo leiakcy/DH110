@@ -17,8 +17,6 @@ The purpose of UX storytelling is to have a better understanding of the users by
 ![Larry's Persona](https://user-images.githubusercontent.com/73958153/116192032-234cfd80-a6e2-11eb-9b07-1fb15b598f8b.png)
 ![Larry's empathy map](https://user-images.githubusercontent.com/73958153/116192114-4081cc00-a6e2-11eb-9c85-29980977c50a.png)
 
-<img src="./Homepage UCSHIP.png" width="800px">
-
 ### Persona 2: Park Soo Young 
 
 ![SY's persona](https://user-images.githubusercontent.com/73958153/116192175-542d3280-a6e2-11eb-8b22-5fda70ccadf5.png)
@@ -27,3 +25,8 @@ The purpose of UX storytelling is to have a better understanding of the users by
 ---
 
 ### Scenarios and Journey Maps 
+
+#### Why Larry is using this product
+> Larry is a retired teacher and he has a lot of knowledge that he wants to share with others. He wants to digitize his work, and also upload them on the website so people can have access to them. Since he has a lot of free time now, he also wants to learn from others because he thinks knowledge is limitless and wants to keep his mind active. He also wants to find a buddy to bounce around ideas with, because he thinks learning together sparks more creativity. 
+
+###
