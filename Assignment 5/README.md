@@ -16,7 +16,8 @@
 ---
 
 ### Wireframes and Wireflow
-![wireframe](https://user-images.githubusercontent.com/73958153/117060470-d1a20580-acd5-11eb-9319-7f82e4782868.jpg)
+![wireframe](https://user-images.githubusercontent.com/73958153/117060747-1fb70900-acd6-11eb-8c16-127f59daff28.jpg)
+
 
 
 
