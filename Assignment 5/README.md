@@ -16,7 +16,7 @@
 ---
 
 ### Wireframes and Wireflow
-Wireframes from this prototype are available to download in JPG form here.(https://drive.google.com/file/d/1xXLhAtno-3PMDOzySRvsrfV0lZhVJjPB/view)
+Wireframes from this prototype are available to download in JPG form [here.](https://drive.google.com/file/d/1xXLhAtno-3PMDOzySRvsrfV0lZhVJjPB/view)
 
 
 
