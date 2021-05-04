@@ -18,9 +18,9 @@
 ### Wireframes and Wireflow
 ![IMG_3966](https://user-images.githubusercontent.com/73958153/117069866-db316a80-ace1-11eb-8f4c-8b14545a578d.jpeg)
 
-**Flow Description*:
+**Flow Description**:The flow is intend to facilitate the users' process of uploading files to share with others, including additional features like edit, delete and save as drafts. Once 
 
-**Feature Description**:
+**Feature Description**: Once users click on the *upload* button, they will navigate to a page that enables them to easily drag and drop their files to upload to the website. After the file is uploaded, users are given the option to *publish* the file immediately or *save to draft*. If the users choose to save their file to draft, they will be brought to the "Drafts" page, where they have to option to *edit, delete,* and *publish* their files from their drafts. Users also have the flexibility to make any changes necessary to their files once they're published. Moreover, to facilitate the articles sorting process, the *filter* feature is introduced to allow users to sort and filter articles based on the author, genre, and date. If the user is satisfied with the article and wants to share with their peers, there is also a *share* feature that allow users to share the article across multiple communication channels.
 
 
 
