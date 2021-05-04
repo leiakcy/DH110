@@ -16,8 +16,7 @@
 ---
 
 ### Wireframes and Wireflow
-![wireframe](https://user-images.githubusercontent.com/73958153/117061700-5a6d7100-acd7-11eb-8da4-c57e8f264f8e.jpg)
-
+Wireframes from this prototype are available to download in JPG form here.(https://drive.google.com/file/d/1xXLhAtno-3PMDOzySRvsrfV0lZhVJjPB/view)
 
 
 
