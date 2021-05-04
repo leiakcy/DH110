@@ -25,14 +25,14 @@
 ---
 
 ### Prototype Testing
-####Iteration #1: Upload and Publish Files
+#### Iteration #1: Upload and Publish Files
 
 ![IMG_3972-2](https://user-images.githubusercontent.com/73958153/117072504-63fdd580-ace5-11eb-9dda-1392fda4542b.jpeg)
 
 **Confusions and/or unexpected interactions:** The user knew how to upload the files, but took some time to find the "Drafts" icon on the bottom left corner. This can be because the user is unfamiliar with the icon, so I might replace it with text instead. On the other hand, the user did correctly assume to purpose of this process and find it to be very straightforward. The user particularly liked that the files can be edited once they are published, offering flexibility to any mistakes that a user might make. I believe that my design for this first feature worked very well because the user was able to successfully complete the task quickly without any major confusion.
 
 
-####Iteration #2: Narrowing Search Options Using Filters
+#### Iteration #2: Narrowing Search Options Using Filters
 
 ![IMG_3973](https://user-images.githubusercontent.com/73958153/117073179-6876be00-ace6-11eb-8d0b-884d20225e6d.jpeg)
 
