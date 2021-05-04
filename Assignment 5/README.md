@@ -22,6 +22,12 @@
 
 **Feature Description**: Once users click on the *upload* button, they will navigate to a page that enables them to easily drag and drop their files to upload to the website. After the file is uploaded, users are given the option to *publish* the file immediately or *save to draft*. If the users choose to save their file to draft, they will be brought to the "Drafts" page, where they have to option to *edit, delete,* and *publish* their files from their drafts. Users also have the flexibility to make any changes necessary to their files once they're published. Moreover, to facilitate the articles sorting process, the *filter* feature is introduced to allow users to sort and filter articles based on the author, genre, and date. If the user is satisfied with the article and wants to share with their peers, there is also a *share* feature that allow users to share the article across multiple communication channels.
 
+---
 
+### Prototype Testing
+**Iteration #1: Upload and Publish Files**
 
+![IMG_3972-2](https://user-images.githubusercontent.com/73958153/117072504-63fdd580-ace5-11eb-9dda-1392fda4542b.jpeg)
+
+The user knew how to upload the files, but took some time to find the "Drafts" icon on the bottom left corner. This can be because the user is unfamiliar with the icon, so I might replace it with text instead. On the other hand, the user did correctly assume to purpose of this process and find it to be very straightforward. The user particularly liked that the files can be edited once they are published, offering flexibility to any mistakes that a user might make. I believe that my design for this first feature worked very well because the user was able to successfully complete the task quickly without any major confusion.
 
