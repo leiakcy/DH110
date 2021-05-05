@@ -41,3 +41,4 @@
 ---
 
 ### Reflection
+Overall, I think the prototype testing went smoothly, since the user was able to finish the tasks and identify the purpose of each feature. However, the prototype testing could also be better to maximize outcome because I have only included limited wireframes. Moreover, I think I have made the tasks too specific which made it easier for the user to navigate to the right pages. If I had given the user more freedom in deciding what product or filter they wanted to set, it would increase the external validity of my design features. Although the user was confused with a few icons in the wireframes, I think that could be largely caused by the nature of the prototype. Through this assignment, I have also learned that I need to make screens for every potential interactionand that the screens should be general enough to fit a wide-range of tasks. 
