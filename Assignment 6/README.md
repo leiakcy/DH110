@@ -7,6 +7,7 @@
 
 **Process**: This high-fidelity, interactive prototype was created based on multiple steps in the designing process. First, the interactions were chosen based on observations and analysis from usability testing and contextual analysis. Then, based on the user personas I created, I find solutions to the issues that they face by including new features. Next, I did my low-fidelity prototype by handrawing wireframes and fireflow, which I also tested with two users. Their feedback is significant bwcause it allows me to make changes to my high-fidelity prototype.
 
+---
 
 ## Screen Design 
 ![Screen Shot 2021-05-11 at 12 31 03 PM](https://user-images.githubusercontent.com/73958153/117873661-e857d780-b254-11eb-880f-5c4421ee9d21.png)
@@ -21,6 +22,7 @@ Access Passcode: is.0&67j
 ### Summary
 The user's impression of the high-fidelity wireframes were that they are simple, straightforward and minimalistic. She really enjoyed how not wordy the pages are, and how easily she can navigate across the website. However, she thinks the font sizes of the website may be too small for senior citizens to read. This feedback is very useful to be because it made me more aware of the accessibility of the website, and I will be sure to make some changes to my high-fidelity prototype. Out of the three design variations, her favorite was the one with the yellow color scheme, because it enlightens the mood, and illustrates how fun and happy the website is. 
 
+---
 
 ## Accessibility (color-contrast) check
 The plugin that I installed on Figma is Color Contrast Checker. I was able to make some changes to the colors after identifying some errors. Examples are shown below.
@@ -29,4 +31,11 @@ The plugin that I installed on Figma is Color Contrast Checker. I was able to ma
 ![Screen Shot 2021-05-11 at 12 56 22 PM](https://user-images.githubusercontent.com/73958153/117876563-5d78dc00-b258-11eb-868c-d6b83b67f3fb.png)
 ![Screen Shot 2021-05-11 at 10 58 07 AM](https://user-images.githubusercontent.com/73958153/117876173-e6dbde80-b257-11eb-8a7f-1ee2b14a315a.png)
 
+---
+
 ## Design System
+- **Typography**: For typography, I used "Mulish" for all the headings, because I think it is similar to the original font exhibited on the website and it is also  a style that is easily interpretable and very minimal. The font sizes for all Heading 1 is 40pt, whereas Heading 2 is 24pt. Furthermore, as for all of the body fonts, I chose to go with "Roboto".
+
+- **Color**:Sic
+
+- **Layout**: The grid I used for the layout is row and columns. I realized have vertical and horizontal spatial zones is a great way to space content out evenly and efficiently.
