@@ -12,6 +12,15 @@
 ## Screen Design 
 ![Screen Shot 2021-05-11 at 12 31 03 PM](https://user-images.githubusercontent.com/73958153/117873661-e857d780-b254-11eb-880f-5c4421ee9d21.png)
 
+### High-fidelity prototype
+![Screen Shot 2021-05-11 at 2 25 58 PM](https://user-images.githubusercontent.com/73958153/117887006-e4cc4c80-b264-11eb-968e-735b1368c2a2.png)
+
+This prototype allows users to:
+- Browse articles
+- Log in to account 
+- Sign up to new account
+- Upload media
+
 ### Three Design Variations 
 ![Screen Shot 2021-05-11 at 10 45 40 AM](https://user-images.githubusercontent.com/73958153/117874016-57353080-b255-11eb-8077-92852542cff0.png)
 
@@ -39,4 +48,5 @@ The plugin that I installed on Figma is Color Contrast Checker. I was able to ma
 - **Color**:Since I created three design variations, the color scheme that I am most likely to go for is the light mode one. For a relatively simple and clean outlook, I choose to stick with three colors: 1. Blue #3C64B1; 2. Black #000000; and 3. The gray color, #F0F3F6. 
 
 - **Layout**: The grid I used for the layout is row and columns. I realized having vertical and horizontal spatial zones is a great way to space content out evenly and efficiently.
-
+ 
+Overall, I decided to make the graphic design minimal and uncluttered, providing necessary information as needed but otherwise keeping the interface clean of extraneous information. I designed the interface to be friendly, with rounded buttons, and accessible for everyone to use.
