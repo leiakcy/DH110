@@ -19,7 +19,7 @@ The recording of the impression test is [here!](https://ucla.zoom.us/rec/share/B
 Access Passcode: is.0&67j
 
 ### Summary
-The user's impression of the high-fidelity wireframes were that they are simple, and minimalistic. She really enjoyed 
+The user's impression of the high-fidelity wireframes were that they are simple, straightforward and minimalistic. She really enjoyed how not wordy the pages are, and how easily she can navigate across the website. However, she thinks the font sizes of the website may be too small for senior citizens to read. This feedback is very useful to be because it made me more aware of the accessibility of the website, and I will be sure to make some changes to my high-fidelity prototype. Out of the three design variations, her favorite was the one with the yellow color scheme, because it enlightens the mood, and illustrates how fun and happy the website is. 
 
 
 ## Accessibility (color-contrast) check
