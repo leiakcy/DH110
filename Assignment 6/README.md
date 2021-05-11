@@ -36,6 +36,6 @@ The plugin that I installed on Figma is Color Contrast Checker. I was able to ma
 ## Design System
 - **Typography**: For typography, I used "Mulish" for all the headings, because I think it is similar to the original font exhibited on the website and it is also  a style that is easily interpretable and very minimal. The font sizes for all Heading 1 is 40pt, whereas Heading 2 is 24pt. Furthermore, as for all of the body fonts, I chose to go with "Roboto".
 
-- **Color**:Sic
+- **Color**:Since I created three design variations, the color scheme that I am most likely to go for is the light mode one. For a relatively simple and clean outlook, I choose to stick with three colors: 1. Blue #3C64B1; 2. Black #000000; and 3. The gray color, #F0F3F6.  
 
-- **Layout**: The grid I used for the layout is row and columns. I realized have vertical and horizontal spatial zones is a great way to space content out evenly and efficiently.
+- **Layout**: The grid I used for the layout is row and columns. I realized having vertical and horizontal spatial zones is a great way to space content out evenly and efficiently.
