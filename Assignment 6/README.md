@@ -18,7 +18,9 @@
 The recording of the impression test is [here!](https://ucla.zoom.us/rec/share/BNOhTEbnCDlCxx3PesgXKaPHhl9-rg9w6bLYdKId57FM0FsmpKYt8yQb-Rfyg5fb.p-WTRDTSmj_MQ-LL)
 Access Passcode: is.0&67j
 
-The transcript of the recording is [here!] 
+### Summary
+The user's impression of the high-fidelity wireframes were that they are simple, and minimalistic. She really enjoyed 
+
 
 ## Accessibility (color-contrast) check
 The plugin that I installed on Figma is Color Contrast Checker. I was able to make some changes to the colors after identifying some errors. Examples are shown below.
