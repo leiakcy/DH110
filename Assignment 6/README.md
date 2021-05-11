@@ -19,3 +19,12 @@ The recording of the impression test is [here!](https://ucla.zoom.us/rec/share/B
 Access Passcode: is.0&67j
 
 The transcript of the recording is [here!] 
+
+## Accessibility (color-contrast) check
+The plugin that I installed on Figma is Color Contrast Checker. I was able to make some changes to the colors after identifying some errors. Examples are shown below.
+
+![Screen Shot 2021-05-11 at 12 55 35 PM](https://user-images.githubusercontent.com/73958153/117876551-594cbe80-b258-11eb-95dd-b922d90c4410.png)
+![Screen Shot 2021-05-11 at 12 56 22 PM](https://user-images.githubusercontent.com/73958153/117876563-5d78dc00-b258-11eb-868c-d6b83b67f3fb.png)
+![Screen Shot 2021-05-11 at 10 58 07 AM](https://user-images.githubusercontent.com/73958153/117876173-e6dbde80-b257-11eb-8a7f-1ee2b14a315a.png)
+
+## Design System
