@@ -15,10 +15,10 @@
 ---
 
 ## Screen Design 
-![Screen Shot 2021-05-11 at 12 31 03 PM](https://user-images.githubusercontent.com/73958153/117873661-e857d780-b254-11eb-880f-5c4421ee9d21.png)
+![Screen Shot 2021-05-18 at 9 07 37 AM](https://user-images.githubusercontent.com/73958153/118657577-9addec00-b7b9-11eb-898b-979cbaf6d6c7.png)
 
 ### High-fidelity prototype
-![Screen Shot 2021-05-11 at 2 25 58 PM](https://user-images.githubusercontent.com/73958153/117887006-e4cc4c80-b264-11eb-968e-735b1368c2a2.png)
+![Screen Shot 2021-05-18 at 9 14 51 AM](https://user-images.githubusercontent.com/73958153/118657617-a29d9080-b7b9-11eb-8d94-c3e690ad9b5a.png)
 
 **This prototype allows users to:**
 - Browse and filter articles
@@ -42,9 +42,10 @@ The user's impression of the high-fidelity wireframes were that they are simple,
 ## Accessibility (color-contrast) check
 The plugin that I installed on Figma is Color Contrast Checker. I was able to make some changes to the colors after identifying some errors. Examples are shown below.
 
-![Screen Shot 2021-05-11 at 12 55 35 PM](https://user-images.githubusercontent.com/73958153/117876551-594cbe80-b258-11eb-95dd-b922d90c4410.png)
-![Screen Shot 2021-05-11 at 12 56 22 PM](https://user-images.githubusercontent.com/73958153/117876563-5d78dc00-b258-11eb-868c-d6b83b67f3fb.png)
-![Screen Shot 2021-05-11 at 10 58 07 AM](https://user-images.githubusercontent.com/73958153/117876173-e6dbde80-b257-11eb-8a7f-1ee2b14a315a.png)
+![Screen Shot 2021-05-18 at 9 12 33 AM](https://user-images.githubusercontent.com/73958153/118657666-ac26f880-b7b9-11eb-8ac7-8b84183bbe48.png)
+![Screen Shot 2021-05-18 at 9 12 19 AM](https://user-images.githubusercontent.com/73958153/118657676-ae895280-b7b9-11eb-8f4e-ff3ac67c26fe.png)
+![Screen Shot 2021-05-18 at 9 09 20 AM](https://user-images.githubusercontent.com/73958153/118657694-b0ebac80-b7b9-11eb-9d3f-891280a27fb4.png)
+
 
 ---
 
@@ -58,3 +59,17 @@ The plugin that I installed on Figma is Color Contrast Checker. I was able to ma
 - **Layout**: The grid I used for the layout is row and columns. I realized having vertical and horizontal spatial zones is a great way to space content out evenly and efficiently.
  
 Overall, I decided to make the graphic design minimal and uncluttered, providing necessary information as needed but otherwise keeping the interface clean of extraneous information. I designed the interface to be friendly, with rounded buttons, and accessible for everyone to use.
+
+
+---
+
+## Cognitive Walkthrough
+![Screen Shot 2021-05-18 at 9 35 20 AM](https://user-images.githubusercontent.com/73958153/118660722-71728f80-b7bc-11eb-8a86-8aa8afc98ec4.png)
+
+**Summary*
+
+---
+
+## Reflection
+
+In this whole process of designing the high fidelity prototype, I have realized that many small details on the website needs attention, including the color contrast, accessibility, typography etc. All details make an impact to the how users interact with the website, and how efficiently they can use it. I have also learned the importance of user testing in high-fidelity prototype because small details are easily overlooked while designing. After the impression test, cognitive walkthrough, and peer review, I have made multiple changes to my prototype to ensure that the experience is improved, more user-friendly and accessible to use. In this project, I have also gained a better understanding of my choice of prototype tool "Figma" and analyzed factors that influence the design of user input and feedback in an interactive system. Overall, the process went very smoothly and I will continue toexamine the interactions by checking what I want to use for the default action of the website.
