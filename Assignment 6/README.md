@@ -66,7 +66,8 @@ Overall, I decided to make the graphic design minimal and uncluttered, providing
 ## Cognitive Walkthrough
 ![Screen Shot 2021-05-18 at 9 35 20 AM](https://user-images.githubusercontent.com/73958153/118660722-71728f80-b7bc-11eb-8a86-8aa8afc98ec4.png)
 
-**Summary**
+**Summary**:
+
 The user was able to finish the tasks easily by navigating through the website with different buttons. One useful feedback that I got from the user was that to add a "back" button at every page, so users can navigate to the last page without going back to the homepage. After carefully going through the website with the user, I was also able to identify some design errors, like the font size standardization.
 
 ---
