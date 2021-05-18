@@ -1,6 +1,11 @@
 # Assigment 06: Interface Design
 ## Leia Ku Cheng Yee, DH110
 
+## High-Fidelity Prototype 
+- [Figma Prototype Preview](https://www.figma.com/proto/Y3G4hkQMQed5hWN9jQkwHw/High-fidelity-prototype?page-id=0%3A1&node-id=1%3A301&viewport=2589%2C708%2C0.41518133878707886&scaling=min-zoom)
+- [Prototype Wireflow URL](https://www.figma.com/file/Y3G4hkQMQed5hWN9jQkwHw/High-fidelity-prototype)
+
+
 ## Description of Project
 
 **Purpose**: This is a high-fidelity testing of the Suddenly Senior website. The website prototype is created by Figma. The purpose of the testing is to examine the functions of newly added features, the login and sign up pages, and the submission page. This high-fidelity prototype is transformed from the low-fidelity hand-drawn prototype with improved graphic elements, UI material components, and features.
