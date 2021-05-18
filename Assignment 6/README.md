@@ -20,11 +20,12 @@
 ### High-fidelity prototype
 ![Screen Shot 2021-05-11 at 2 25 58 PM](https://user-images.githubusercontent.com/73958153/117887006-e4cc4c80-b264-11eb-968e-735b1368c2a2.png)
 
-This prototype allows users to:
-- Browse articles
+**This prototype allows users to:**
+- Browse and filter articles
 - Log in to account 
 - Sign up to new account
 - Upload media
+- Get assistance by navigating to "Help" page
 
 ### Three Design Variations 
 ![Screen Shot 2021-05-11 at 10 45 40 AM](https://user-images.githubusercontent.com/73958153/117874016-57353080-b255-11eb-8077-92852542cff0.png)
@@ -48,9 +49,11 @@ The plugin that I installed on Figma is Color Contrast Checker. I was able to ma
 ---
 
 ## Design System
-- **Typography**: For typography, I used "Mulish" for all the headings, because I think it is similar to the original font exhibited on the website and it is also  a style that is easily interpretable and very minimal. The font sizes for all Heading 1 is 40pt, whereas Heading 2 is 24pt. Furthermore, as for all of the body fonts, I chose to go with "Roboto".
+- **Typography**: For typography, I used "Mulish" for all the headings, because I think it is similar to the original font exhibited on the website and it is also  a style that is easily interpretable and very minimal.  For readability, I chose to keep using one font on the website, but with different sizes, colors and capitalizations to distinguish title and body text.The font sizes for all Heading 1 is 40pt, whereas Heading 2 is 24pt. 
 
-- **Color**:Since I created three design variations, the color scheme that I am most likely to go for is the light mode one. For a relatively simple and clean outlook, I choose to stick with three colors: 1. Blue #3C64B1; 2. Black #000000; and 3. The gray color, #F0F3F6. 
+![Screen Shot 2021-05-18 at 8 59 12 AM](https://user-images.githubusercontent.com/73958153/118655280-62d5a980-b7b7-11eb-9994-b86a1df1bc87.png)
+
+- **Color**:Since I created three design variations, the color scheme that I am most likely to go for is the yellow, black, and white. After doing the impression test, I have decided to choose this color scheme because it's less dull, and is more likely to grab users' attention. For a relatively simple and clean outlook, I choose to stick with three colors: 1. Yellow #FFB101; 2. Black #000000; and 3. The gray color, #F0F3F6. 
 
 - **Layout**: The grid I used for the layout is row and columns. I realized having vertical and horizontal spatial zones is a great way to space content out evenly and efficiently.
  
