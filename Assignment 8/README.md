@@ -39,7 +39,11 @@ Watch the usability test video and screen recording [here!](https://ucla.zoom.us
 ---
 
 ### User research: Contextual Inquiry
-Summary and link to your assignment folder
+Based off the findings of the heuristic evaluation, and pilot usability test, the research has reached its next phase of data collection. Contextual inquiry can help designers to gain insights and uncover usability problems that they didn't notice from conducting the heauristic evaluation. Through conducting contextual inquiry, I have learned to see how the user interact with the product, and it provided me a lot of useful data for improvements. When performing the interview, I learned that is important to eliminate all biases and try to view the product from an outsider perspective, and to keep my script for contextual inquiry rather loose and flexible, so the users can have their own way of interacting with the website. The ultimate goal is to identify translatable qualitative data that can be used to help improve and/or create new features pertaining to the Suddenly Senior website.
+
+Read more about the contextual inquiry [here!](https://github.com/leiakcy/DH110/tree/main/Assignment%203)
+
+---
 
 ### UX storytelling 
 The purpose of UX storytelling is to have a better understanding of the users by putting ourselves in their shoes, and understand their perspectives of the product. It allows design teams and developers to gain insights into the users' goals, empathize with their personalized stories, and build a solution around it.  Additionally, it allows team to filter out biases so that they may work effectively to design a cohesive product.
