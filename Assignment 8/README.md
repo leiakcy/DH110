@@ -2,16 +2,32 @@
 ## Suddenly Senior
 ## Leia Ku Cheng Yee
 
-### Introduction: a brief information about the project. 
+### Introduction: a brief information about the project 
 The main purpose of this Suddenly Senior is to provide resources, entertaintment and guide seniors in their day-to-day activities. This project can also help users to find their communities, and self-develop during their leisure time. Suddenly Senior also provides users a platform to share their files by easily uploading them. The resources that the website provide include articles, jokes and trivias. 
 
-### Clear design statement: 
+### Clear design statement
 There are various sites that already exist that provide resources to seniors like Senior Guide to Computers, Senior Net etc. Although there are many of these websites that already exist, there are few that consolidate these resources in an easily understandable, and engaging way. The limitations that could be improved with technology are that it is hard to refine and filter information, and the disorganization of information can hinder usability. There is also lack indication of what page the users are on, making it difficult for users to recall the workings of the system.
 
-### Competitor analysis [assignment01 & 02]:
+---
+
+### Competitor analysis: Heuristic Evaluation
 Summary and link to the heuristics and usability testing of the *existing* product(s) - or the *original* website you evaluated
 
-### User research [contextual inquiry, assignment04]:
+The purpose of a heuristic evaluation is to thoroughly assess the product’s user interface, and detect usability issues that may occur when users interact with a product, and identify ways to resolve them. I evaluated two different websites that both serves the purpose of providing content to users, one being the UC SHIP website, and the other being the Suddenly Senior website. The UC SHIP's website is built for students enrolled in University of California's campuses, and it is where students get a better understanding about their health covereage, the benefits, claims, where to get a referral etc. Similarly, Suddenly Senior is a website that provides humorous content, advocacy and useful information for seniors.
+
+Read more about the heuristic evaluation [here!](https://github.com/leiakcy/DH110/blob/main/Assignment%201/README.md)
+
+**1. UC SHIP website**
+
+![Homepage UCSHIP](https://user-images.githubusercontent.com/73958153/120234437-d098c100-c20c-11eb-8746-f4271b691789.png)
+
+**2. Suddenly Senior website**
+
+![Suddenly senior homepage](https://user-images.githubusercontent.com/73958153/120234467-dee6dd00-c20c-11eb-8e81-d4a5c5280c1a.png)
+
+---
+
+### User research: Contextual Inquiry
 Summary and link to your assignment folder
 
 ### UX storytelling 
