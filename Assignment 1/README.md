@@ -11,7 +11,8 @@ https://www.ucop.edu/ucship/index.html
 
 *UC SHIP's website is built for students enrolled in University of California's campuses, and it is where students get a better understanding about their health covereage, the benefits, claims, where to get a referral etc.  UC SHIP provides high-quality, affordable and convenient coverage that protects students from unexpected health care costs. UC SHIP in conjunction with the campus Student Health Center also works diligently with affiliated vendors (Anthem, Delta Dental, Academic Health Plans) to ensure that their systems are upgraded as soon as possible.*
 
-<img src="./Homepage UCSHIP.png" width="800px">
+![Homepage UCSHIP](https://user-images.githubusercontent.com/73958153/120234280-86174480-c20c-11eb-9738-d36d00bef680.png)
+
 
 ### Severity Ratings in Heuristic Evaluation - Nielson Norman Group
 
@@ -50,7 +51,7 @@ https://www.suddenlysenior.com
 
 *Suddenly Senior is a website that provides humorous content, advocacy and useful information for seniors. The content they provide include trivias, senior guides, stories, best products for seniors etc, to aid seniors with any problems they encounter, keep their minds active, and entertain them. This website now has over 4,000 pages of humor, and is updated on a daily basis.*
 
-<img src="./Suddenly senior homepage.png" width="800px">
+![Suddenly senior homepage](https://user-images.githubusercontent.com/73958153/120234364-a5ae6d00-c20c-11eb-971b-dedd1f55b35f.png)
 
 ---
 
