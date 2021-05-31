@@ -74,7 +74,7 @@ The purpose of my low-fidelity prototypes is to check and test the functionality
 
 ![IMG_3966](https://user-images.githubusercontent.com/73958153/117069866-db316a80-ace1-11eb-8f4c-8b14545a578d.jpeg)
 
-**Wireframe and graphic design element variation**
+### Wireframe and graphic design element variation
 
 ![Screen Shot 2021-05-11 at 10 45 40 AM](https://user-images.githubusercontent.com/73958153/117874016-57353080-b255-11eb-8077-92852542cff0.png)
 
@@ -84,11 +84,22 @@ The purpose of a high-fidelity prototype is to examine the functions of newly ad
 - [Figma Prototype Preview](https://www.figma.com/proto/Y3G4hkQMQed5hWN9jQkwHw/High-fidelity-prototype?page-id=0%3A1&node-id=1%3A301&viewport=2589%2C708%2C0.41518133878707886&scaling=min-zoom)
 - [Prototype Wireflow URL](https://www.figma.com/file/Y3G4hkQMQed5hWN9jQkwHw/High-fidelity-prototype)
 
+![Screen Shot 2021-05-18 at 9 14 51 AM](https://user-images.githubusercontent.com/73958153/118657617-a29d9080-b7b9-11eb-8d94-c3e690ad9b5a.png)
+
 ### Evaluation and revision history 
-**Cognitive walkthrough**
+**Cognitive walkthrough:**
+
 Cognitive walkthroughs are used to examine the usability of a product. They are designed to see whether or not a new user can easily carry out tasks within a given system. It is a task-specific approach to usability
 ![Screen Shot 2021-05-18 at 9 35 20 AM](https://user-images.githubusercontent.com/73958153/118660722-71728f80-b7bc-11eb-8a86-8aa8afc98ec4.png)
-Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
+
+**Impression test:**
+
+An impression test captures users' first impressions of a website based on a handful of critical components – images, colors, layout, key words and phrase.
+
+The recording of the impression test is [here!](https://ucla.zoom.us/rec/share/BNOhTEbnCDlCxx3PesgXKaPHhl9-rg9w6bLYdKId57FM0FsmpKYt8yQb-Rfyg5fb.p-WTRDTSmj_MQ-LL)
+(Access Passcode: is.0&67j)
+
+**Summary:** The user's impression of the high-fidelity wireframes were that they are simple, straightforward and minimalistic. She really enjoyed how not wordy the pages are, and how easily she can navigate across the website. However, she thinks the font sizes of the website may be too small for senior citizens to read. This feedback is very useful to be because it made me more aware of the accessibility of the website, and I will be sure to make some changes to my high-fidelity prototype. Out of the three design variations, her favorite was the one with the yellow color scheme, because it enlightens the mood, and illustrates how fun and happy the website is. 
 
 ### Pitch video 
 
