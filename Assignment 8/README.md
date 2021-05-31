@@ -85,6 +85,9 @@ The purpose of a high-fidelity prototype is to examine the functions of newly ad
 - [Prototype Wireflow URL](https://www.figma.com/file/Y3G4hkQMQed5hWN9jQkwHw/High-fidelity-prototype)
 
 ### Evaluation and revision history 
+**Cognitive walkthrough**
+Cognitive walkthroughs are used to examine the usability of a product. They are designed to see whether or not a new user can easily carry out tasks within a given system. It is a task-specific approach to usability
+![Screen Shot 2021-05-18 at 9 35 20 AM](https://user-images.githubusercontent.com/73958153/118660722-71728f80-b7bc-11eb-8a86-8aa8afc98ec4.png)
 Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
 
 ### Pitch video 
