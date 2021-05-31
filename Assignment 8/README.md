@@ -21,9 +21,20 @@ Read more about the heuristic evaluation [here!](https://github.com/leiakcy/DH11
 
 ![Homepage UCSHIP](https://user-images.githubusercontent.com/73958153/120234437-d098c100-c20c-11eb-8746-f4271b691789.png)
 
+
 **2. Suddenly Senior website**
 
 ![Suddenly senior homepage](https://user-images.githubusercontent.com/73958153/120234467-dee6dd00-c20c-11eb-8e81-d4a5c5280c1a.png)
+
+
+### Competitor Analysis: Usability Testing
+
+The purpose of usability testing (UT) is to identify issues with the product design and improve the overall usability and satisfaction of a product. In contrast to heuristic evaluation, UT provides a more accurate inspection of how a random participant would interact with a product. It is necessary to test whether a product is effective, efficient, and satisfactory for users. The UT process can also inform potential users about the unreleased project, as well as help identify problems in the interface early, eliminating possible future spending and damage control.
+
+Read more about the usability testing [here!](https://github.com/leiakcy/DH110/tree/main/Assignment%202)
+
+Watch the usability test video and screen recording [here!](https://ucla.zoom.us/rec/share/DiSSiehUtsZVeiTHiKtDfCkNzZWC6X6aUAyPn59-EOMZ0S7KSYkuJMhjwWdJNG6n.5JzabKJokbl8kplH) (Access Passcode: bb7=SYx*)
+
 
 ---
 
