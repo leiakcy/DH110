@@ -68,10 +68,15 @@ See all the personas and scenarios [here!](https://github.com/leiakcy/DH110/tree
 
 ---
 
-### Wireframe and graphic design element variation [assignment06 + part of 07]
+## Wireframe and graphic design element variation 
+### Low-fidelity prototype 
+The purpose of my low-fidelity prototypes is to check and test the functionality and flow of the new features. It allows me to translate my high-level design concepts into physical and tangible entities that other people can interact with in order to identify flaws in functionality. In this project, I have just added the feature for users to upload documents, share and filter articles.
 
-### Low-fidelity prototype (wireflow, assignment06)
-Summary and link to the sketches (may contains the multiple versions and evaluation history)
+![IMG_3966](https://user-images.githubusercontent.com/73958153/117069866-db316a80-ace1-11eb-8f4c-8b14545a578d.jpeg)
+
+**Wireframe and graphic design element variation**
+
+
 
 ### High-fidelity prototype (functional/interactive prototype, assignment08)
 Summary statement and link to or an embedded prototype
