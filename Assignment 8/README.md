@@ -14,7 +14,7 @@ Summary and link to the heuristics and usability testing of the *existing* produ
 ### User research [contextual inquiry, assignment04]:
 Summary and link to your assignment folder
 
-### UX storytelling [persona+scenario, assignment05]
+### UX storytelling 
 The purpose of UX storytelling is to have a better understanding of the users by putting ourselves in their shoes, and understand their perspectives of the product. It allows design teams and developers to gain insights into the users' goals, empathize with their personalized stories, and build a solution around it.  Additionally, it allows team to filter out biases so that they may work effectively to design a cohesive product.
 
 **Design features that I suggested are:**
@@ -34,6 +34,7 @@ The purpose of UX storytelling is to have a better understanding of the users by
 #### How Larry is using this product 
 > When Larry clicked on the website, he navigated to the "Upload" page, filled in his name, the tittle of the document, uploaded the PDF, and then clicked the "Publish" button, feeling satisified. At first, he didn't see the "Save as draft" option, and once he clicked "back", all his documents disappeared. After a few tries, he realized he could save the documents as drafts and also go back and make any changes by clicking on an icon for edit. As he browse around the website, he also found a "Find a study group" option, which can allow him to connect with others. He was really excited, and immediately signed up for it by putting his name, number, email address, and his demographics information.
 
+See all the personas and scenarios [here!](https://github.com/leiakcy/DH110/tree/main/Assignment%204)
 
 ### Wireframe and graphic design element variation [assignment06 + part of 07]
 
