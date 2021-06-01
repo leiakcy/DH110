@@ -73,11 +73,6 @@ The purpose of my low-fidelity prototypes is to check and test the functionality
 
 ![IMG_3966](https://user-images.githubusercontent.com/73958153/117069866-db316a80-ace1-11eb-8f4c-8b14545a578d.jpeg)
 
-### Wireframe and graphic design element variation
-
-![Screen Shot 2021-05-11 at 10 45 40 AM](https://user-images.githubusercontent.com/73958153/117874016-57353080-b255-11eb-8077-92852542cff0.png)
-
-I created three design variation to see which one I like better. After doing the impression test, I decided to go with the yellow, black, and white color scheme because it's cheerful, bright, and is more likely to grab users' attention.
 
 ### High-fidelity prototype 
 The purpose of a high-fidelity prototype is to examine the functions of newly added features, the login and sign up pages, and the submission page. This high-fidelity prototype is transformed from the low-fidelity hand-drawn prototype with improved graphic elements, UI material components, and features. Besides, this high-fidelity, interactive prototype was created based on multiple steps in the designing process. First, the interactions were chosen based on observations and analysis from usability testing and contextual analysis. Then, based on the user personas I created, I find solutions to the issues that they face by including new features. Next, I did my low-fidelity prototype by handrawing wireframes and fireflow, which I also tested with two users. Their feedback is significant because it allows me to make changes to my high-fidelity prototype.
@@ -86,6 +81,12 @@ The purpose of a high-fidelity prototype is to examine the functions of newly ad
 - [Prototype Wireflow URL](https://www.figma.com/file/Y3G4hkQMQed5hWN9jQkwHw/High-fidelity-prototype)
 
 ![Screen Shot 2021-05-18 at 9 14 51 AM](https://user-images.githubusercontent.com/73958153/118657617-a29d9080-b7b9-11eb-8d94-c3e690ad9b5a.png)
+
+### Wireframe and graphic design element variation
+
+I created three design variation to see which one I like better. After doing the impression test, I decided to go with the yellow, black, and white color scheme because it's cheerful, bright, and is more likely to grab users' attention.
+
+![Screen Shot 2021-05-11 at 10 45 40 AM](https://user-images.githubusercontent.com/73958153/117874016-57353080-b255-11eb-8077-92852542cff0.png)
 
 --- 
 ## Evaluation and revision history 
