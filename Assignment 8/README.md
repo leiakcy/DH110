@@ -94,7 +94,7 @@ I created three design variation to see which one I like better. After doing the
 Cognitive walkthroughs are used to examine the usability of a product. They are designed to see whether or not a new user can easily carry out tasks within a given system. It is a task-specific approach to usability
 ![Screen Shot 2021-05-18 at 9 35 20 AM](https://user-images.githubusercontent.com/73958153/118660722-71728f80-b7bc-11eb-8a86-8aa8afc98ec4.png)
 
-### Impression test:
+### Impression test
 An impression test captures users' first impressions of a website based on a handful of critical components – images, colors, layout, key words and phrase.
 
 The recording of the impression test is [here!](https://ucla.zoom.us/rec/share/BNOhTEbnCDlCxx3PesgXKaPHhl9-rg9w6bLYdKId57FM0FsmpKYt8yQb-Rfyg5fb.p-WTRDTSmj_MQ-LL)
