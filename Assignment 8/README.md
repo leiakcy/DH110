@@ -29,7 +29,7 @@ Read more about the heuristic evaluation [here!](https://github.com/leiakcy/DH11
 
 ### Competitor Analysis: Usability Testing
 
-The purpose of usability testing (UT) is to identify issues with the product design and improve the overall usability and satisfaction of a product. In contrast to heuristic evaluation, UT provides a more accurate inspection of how a random participant would interact with a product. It is necessary to test whether a product is effective, efficient, and satisfactory for users. The UT process can also inform potential users about the unreleased project, as well as help identify problems in the interface early, eliminating possible future spending and damage control.
+After my evaluation of the website, in order to confirm them, I conducted a usability test. The purpose of usability testing (UT) is to identify issues with the product design and improve the overall usability and satisfaction of a product. In contrast to heuristic evaluation, UT provides a more accurate inspection of how a random participant would interact with a product. It is necessary to test whether a product is effective, efficient, and satisfactory for users. The UT process can also inform potential users about the unreleased project, as well as help identify problems in the interface early, eliminating possible future spending and damage control.
 
 Read more about the usability testing [here!](https://github.com/leiakcy/DH110/tree/main/Assignment%202)
 
@@ -46,14 +46,7 @@ Read more about the contextual inquiry [here!](https://github.com/leiakcy/DH110/
 ---
 
 ### UX storytelling 
-The purpose of UX storytelling is to have a better understanding of the users by putting ourselves in their shoes, and understand their perspectives of the product. It allows design teams and developers to gain insights into the users' goals, empathize with their personalized stories, and build a solution around it.  Additionally, it allows team to filter out biases so that they may work effectively to design a cohesive product.
-
-**Design features that I suggested are:**
-1. Filters 
-2. Upload page
-3. The search function 
-4. 'Share' feature
-5. Save to draft/edit draft
+In order to have a better understanding of the users by putting ourselves in their shoes, and understand their perspectives of the product, I created user personas, empathy maps and journey maps. It allows design teams and developers to gain insights into the users' goals, empathize with their personalized stories, and build a solution around it.  Additionally, it allows team to filter out biases so that they may work effectively to design a cohesive product.
 
 ![Larry's Persona](https://user-images.githubusercontent.com/73958153/116192032-234cfd80-a6e2-11eb-9b07-1fb15b598f8b.png)
 ![Larry's empathy map](https://user-images.githubusercontent.com/73958153/116192114-4081cc00-a6e2-11eb-9c85-29980977c50a.png)
@@ -71,11 +64,20 @@ See all the personas and scenarios [here!](https://github.com/leiakcy/DH110/tree
 ### Low-fidelity prototype 
 The purpose of my low-fidelity prototypes is to check and test the functionality and flow of the new features. It allows me to translate my high-level design concepts into physical and tangible entities that other people can interact with in order to identify flaws in functionality. In this project, I have just added the feature for users to upload documents, share and filter articles.
 
+**Design features that I suggested are:**
+1. Filters 
+2. Upload page
+3. The search function 
+4. 'Share' feature
+5. Save to draft/edit draft
+
 ![IMG_3966](https://user-images.githubusercontent.com/73958153/117069866-db316a80-ace1-11eb-8f4c-8b14545a578d.jpeg)
 
 ### Wireframe and graphic design element variation
 
 ![Screen Shot 2021-05-11 at 10 45 40 AM](https://user-images.githubusercontent.com/73958153/117874016-57353080-b255-11eb-8077-92852542cff0.png)
+
+I created three design variation to see which one I like better. After doing the impression test, I decided to go with the yellow, black, and white color scheme because it's cheerful, bright, and is more likely to grab users' attention.
 
 ### High-fidelity prototype 
 The purpose of a high-fidelity prototype is to examine the functions of newly added features, the login and sign up pages, and the submission page. This high-fidelity prototype is transformed from the low-fidelity hand-drawn prototype with improved graphic elements, UI material components, and features. Besides, this high-fidelity, interactive prototype was created based on multiple steps in the designing process. First, the interactions were chosen based on observations and analysis from usability testing and contextual analysis. Then, based on the user personas I created, I find solutions to the issues that they face by including new features. Next, I did my low-fidelity prototype by handrawing wireframes and fireflow, which I also tested with two users. Their feedback is significant because it allows me to make changes to my high-fidelity prototype.
@@ -85,14 +87,13 @@ The purpose of a high-fidelity prototype is to examine the functions of newly ad
 
 ![Screen Shot 2021-05-18 at 9 14 51 AM](https://user-images.githubusercontent.com/73958153/118657617-a29d9080-b7b9-11eb-8d94-c3e690ad9b5a.png)
 
-### Evaluation and revision history 
-**Cognitive walkthrough:**
-
+--- 
+## Evaluation and revision history 
+### Cognitive walkthrough
 Cognitive walkthroughs are used to examine the usability of a product. They are designed to see whether or not a new user can easily carry out tasks within a given system. It is a task-specific approach to usability
 ![Screen Shot 2021-05-18 at 9 35 20 AM](https://user-images.githubusercontent.com/73958153/118660722-71728f80-b7bc-11eb-8a86-8aa8afc98ec4.png)
 
-**Impression test:**
-
+### Impression test:
 An impression test captures users' first impressions of a website based on a handful of critical components – images, colors, layout, key words and phrase.
 
 The recording of the impression test is [here!](https://ucla.zoom.us/rec/share/BNOhTEbnCDlCxx3PesgXKaPHhl9-rg9w6bLYdKId57FM0FsmpKYt8yQb-Rfyg5fb.p-WTRDTSmj_MQ-LL)
@@ -100,6 +101,15 @@ The recording of the impression test is [here!](https://ucla.zoom.us/rec/share/B
 
 **Summary:** The user's impression of the high-fidelity wireframes were that they are simple, straightforward and minimalistic. She really enjoyed how not wordy the pages are, and how easily she can navigate across the website. However, she thinks the font sizes of the website may be too small for senior citizens to read. This feedback is very useful to be because it made me more aware of the accessibility of the website, and I will be sure to make some changes to my high-fidelity prototype. Out of the three design variations, her favorite was the one with the yellow color scheme, because it enlightens the mood, and illustrates how fun and happy the website is. 
 
+---
+
 ### Pitch video 
 
-### Conclusion: what did you learn throughout the process?
+### Conclusion
+I have learned a few things in the process of redesigning the Suddenly Senior Website:
+1. **Importance of test and research:** In this process, I have learned about how to evaluate sites and prototypes through different methods, like heuristic evaluation, contextual inquiry, cognitive walkthroughs, and usability tests etc. I have learned to understand the significance of gathering quantitative and qualitative data to gain more insight about the design, and about the user. 
+2. **Graphical Interface Accessibility:** In this process, I have learned about the importance of accessibility, especially about color contrast, and the use of plugins on Figma to test that. 
+
+Overall, I think this project is very rewarding and I have definitely gained a lot of knowledge and experience with the field. In the future, I would do more usability tests and field research to see how different users react to my prototype. Because there are so many different types of users, I want to see if my site addresses the majority's needs. 
+
+
