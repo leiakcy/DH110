@@ -11,7 +11,6 @@ There are various sites that already exist that provide resources to seniors lik
 ---
 
 ### Competitor analysis: Heuristic Evaluation
-Summary and link to the heuristics and usability testing of the *existing* product(s) - or the *original* website you evaluated
 
 The purpose of a heuristic evaluation is to thoroughly assess the product’s user interface, and detect usability issues that may occur when users interact with a product, and identify ways to resolve them. I evaluated two different websites that both serves the purpose of providing content to users, one being the UC SHIP website, and the other being the Suddenly Senior website. The UC SHIP's website is built for students enrolled in University of California's campuses, and it is where students get a better understanding about their health covereage, the benefits, claims, where to get a referral etc. Similarly, Suddenly Senior is a website that provides humorous content, advocacy and useful information for seniors.
 
