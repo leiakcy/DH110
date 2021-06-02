@@ -108,6 +108,7 @@ The recording of the impression test is [here!](https://ucla.zoom.us/rec/share/B
 ### Pitch video 
 Watch the pitch video [here!](https://ucla.zoom.us/rec/share/vQGyQvNCGiDZlSyOrHlfYAZKlRKCPc81C3gabcTFNyyrxfbWRMFyGWBu9lo6Gn4.AFRGBj44ES23kFa5) (Access Passcode: JnG.%9L&)
 
+
 ### Conclusion
 I have learned a few things in the process of redesigning the Suddenly Senior Website:
 1. **Importance of test and research:** In this process, I have learned about how to evaluate sites and prototypes through different methods, like heuristic evaluation, contextual inquiry, cognitive walkthroughs, and usability tests etc. I have learned to understand the significance of gathering quantitative and qualitative data to gain more insight about the design, and about the user. 
