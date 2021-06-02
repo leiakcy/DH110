@@ -89,6 +89,8 @@ I created three design variation to see which one I like better. After doing the
 
 --- 
 ## Evaluation and revision history 
+In order to continue iterating on my prototype to make sure that it is intuitive and usable, I conducted impression test, and cognitive walkthrough.
+
 ### Cognitive walkthrough
 Cognitive walkthroughs are used to examine the usability of a product. They are designed to see whether or not a new user can easily carry out tasks within a given system. 
 ![Screen Shot 2021-05-18 at 9 35 20 AM](https://user-images.githubusercontent.com/73958153/118660722-71728f80-b7bc-11eb-8a86-8aa8afc98ec4.png)
