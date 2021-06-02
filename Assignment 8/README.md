@@ -90,8 +90,10 @@ I created three design variation to see which one I like better. After doing the
 --- 
 ## Evaluation and revision history 
 ### Cognitive walkthrough
-Cognitive walkthroughs are used to examine the usability of a product. They are designed to see whether or not a new user can easily carry out tasks within a given system. It is a task-specific approach to usability
+Cognitive walkthroughs are used to examine the usability of a product. They are designed to see whether or not a new user can easily carry out tasks within a given system. 
 ![Screen Shot 2021-05-18 at 9 35 20 AM](https://user-images.githubusercontent.com/73958153/118660722-71728f80-b7bc-11eb-8a86-8aa8afc98ec4.png)
+
+**Summary**: The user was able to finish the tasks easily by navigating through the website with different buttons. One useful feedback that I got from the user was that to add a "back" button at every page, so users can navigate to the last page without going back to the homepage. After carefully going through the website with the user, I was also able to identify some design errors, like the font size standardization.
 
 ### Impression test
 An impression test captures users' first impressions of a website based on a handful of critical components – images, colors, layout, key words and phrase.
@@ -104,6 +106,7 @@ The recording of the impression test is [here!](https://ucla.zoom.us/rec/share/B
 ---
 
 ### Pitch video 
+Watch the pitch video [here!](https://ucla.zoom.us/rec/share/vQGyQvNCGiDZlSyOrHlfYAZKlRKCPc81C3gabcTFNyyrxfbWRMFyGWBu9lo6Gn4.AFRGBj44ES23kFa5) (Access Passcode: JnG.%9L&)
 
 ### Conclusion
 I have learned a few things in the process of redesigning the Suddenly Senior Website:
